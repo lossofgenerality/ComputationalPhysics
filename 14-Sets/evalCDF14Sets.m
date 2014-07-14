@@ -3,7 +3,7 @@
 http://www.perlfoundation.org/artistic_license_2_0 
 
 Copyrights Dara O Shayda 2014-present 
-*)
+*) 
 
 BeginPackage["evalCDF14Sets`"];
 
